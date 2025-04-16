@@ -26,6 +26,6 @@
 
 <div>
   <a href="https://github.com/viniciussousa09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussousa09_show_icons=true&theme=dracula&include_all_commits=true&count_private_true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussousa09&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussousa09&theme=gruvbox&include_all_commits=true&count_private_true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussousa09&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
