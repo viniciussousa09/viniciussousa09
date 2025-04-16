@@ -21,3 +21,11 @@
   <a href = "mailto:contatoviniciussousa09/@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinícius-sousa09" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+##
+
+<div>
+  <a href="https://github.com/viniciussousa09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussousa09_show_icons=true&theme=dracula&include_all_commits=true&count_private_true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussousa09&layout=compact&langs_count=16&theme=dracula"/>
+</div>
