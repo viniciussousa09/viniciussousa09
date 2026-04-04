@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Sousa 👋
 
-- 🔭 Hoje Eu estou procurando minha oportunidade na área de TI
-- 🌱 Estou estudando JavaScript, React...
+- 🔭 Hoje Eu estou procurando Atuar na área de Tecnologia da Informação em Saúde, com foco em interoperabilidade, integração de sistemas hospitalares e uso do padrão FHIR.
+- 🌱 Estou estudando, Padrão FHIR, JavaScript, React...
 - 📩 Contate-me no email: vinicius.oliveirasousa09@gmail.com
 - 🤔 Pronouns: ele/dele
 
